@@ -1,4 +1,4 @@
-# Express Server with TypeScript
+# Express Server with TypeScript - Jasmine Test
 
 ## Install
 ```

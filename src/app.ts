@@ -5,7 +5,7 @@ import bodyParser from "body-parser";
 import routes from "./routes";
 
 const app: Application = express(); // create an express application
-const port = 4000; // default port to listen
+const port = 3000; // default port to listen
 app.use(cors(), bodyParser.json()); // add middlewares
 
 // a static file server that points to the "public" directory

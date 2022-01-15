@@ -11,12 +11,9 @@ app.use(cors(), bodyParser.json()); // add middlewares
 // a static file server that points to the "public" directory
 app.use(express.static("public"));
 
-
 app.get('/example/a', function (req, res) {
     res.send('Hello from A!')
 });
-
-
 
 // call routes
 app.use("/", routes);

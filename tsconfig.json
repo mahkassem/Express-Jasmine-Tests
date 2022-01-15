@@ -89,10 +89,5 @@
         /* Completeness */
         // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
         "skipLibCheck": true /* Skip type checking all .d.ts files. */
-    },
-    "exclude": [
-        "node_modules", // Exclude all node_modules from the project
-        "./build", // Exclude the build folder
-        "spec" // Exclude the spec folder
-    ]
+    }
 }

@@ -1,4 +1,4 @@
-# Express Server with TypeScript - Jasmine Test
+# Express Server - TypeScript - Jasmine Test
 
 ## Install
 ```
@@ -16,6 +16,3 @@ npm run build
 ```
 npm run test
 ```
-
-### Postman Collection
-[Link to file](https://github.com/mahkassem/Express-TypeScript/blob/main/Express%20TS.postman_collection.json)
